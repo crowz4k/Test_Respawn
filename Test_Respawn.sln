@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Respawn.API", "Test_Respawn.API\Test_Respawn.API.csproj", "{D9745A75-7D31-4AD3-B3A8-0B1B52FF523E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Respawn.IntegrationTests", "Test_Respawn.IntegrationTests\Test_Respawn.IntegrationTests.csproj", "{568F1E18-640E-40F3-BFF0-038D0B5A0AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Respawn.DB", "Test_Respawn.DB\Test_Respawn.DB.csproj", "{2F0CAB38-BE24-4ED5-B4CC-1050B18C4099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9745A75-7D31-4AD3-B3A8-0B1B52FF523E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9745A75-7D31-4AD3-B3A8-0B1B52FF523E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9745A75-7D31-4AD3-B3A8-0B1B52FF523E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9745A75-7D31-4AD3-B3A8-0B1B52FF523E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568F1E18-640E-40F3-BFF0-038D0B5A0AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568F1E18-640E-40F3-BFF0-038D0B5A0AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568F1E18-640E-40F3-BFF0-038D0B5A0AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568F1E18-640E-40F3-BFF0-038D0B5A0AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0CAB38-BE24-4ED5-B4CC-1050B18C4099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0CAB38-BE24-4ED5-B4CC-1050B18C4099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0CAB38-BE24-4ED5-B4CC-1050B18C4099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0CAB38-BE24-4ED5-B4CC-1050B18C4099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
